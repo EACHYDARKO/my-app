@@ -1,8 +1,5 @@
 [build]
-  publish = "/"
-  command = ""
-
-[dev]
+  publish = "."
   command = ""
 
 [[redirects]]
