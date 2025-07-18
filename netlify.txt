@@ -1,0 +1,11 @@
+[build]
+  publish = "/"
+  command = ""
+
+[dev]
+  command = ""
+
+[[redirects]]
+  from = "/*"
+  to = "/vanderpump_hatred_ranker.html"
+  status = 200
